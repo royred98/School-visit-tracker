@@ -13,8 +13,8 @@ from collections import Counter, defaultdict
 
 SCHOOLS_IN = "dataset/Ritabrata Roy_Prework_saharsh_randomised_all_schools - schools.csv"
 MEMBERS_IN = "dataset/Ritabrata Roy_Prework_saharsh_randomised_all_schools - team members.csv"
-SCHOOLS_OUT = "schools_schedule.csv"
-MEMBERS_OUT = "team_members_schedule.csv"
+SCHOOLS_OUT = "output/schools_schedule.csv"
+MEMBERS_OUT = "output/team_members_schedule.csv"
 
 DAYS = list(range(1, 31))
 NUM_MEMBERS = 120
